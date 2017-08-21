@@ -13,7 +13,7 @@ A demonstration of the existing CPN Tools:
 
 - simulation: https://www.youtube.com/watch?v=ZRzHi1eW1QE
 - editing: https://www.youtube.com/watch?v=Vd_3o2KF2Oo
-- webpage of CPN Tools: http://cpntools.org
+- webpage for the existing CPN Tools: http://cpntools.org
 
 A short introduction to Coloured Petri Nets can be found in the paper: https://cacm.acm.org/magazines/2015/6/187324-colored-petri-nets/abstract
 
