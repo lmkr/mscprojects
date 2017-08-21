@@ -3,7 +3,7 @@
 Below you will find a short introduction to the master thesis project that I am currently offering. If you are interested in one or more of the projects, then do not hesitate to contact me at:
 
 - Office: E503
-- Email:  lmkr@hvl.no
+- Email:  lmkr replace-with-an-at-sign hvl.no
 
 ## A New Software Tool for the Coloured Petri Nets Modelling Language
 
