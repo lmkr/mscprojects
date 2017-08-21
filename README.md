@@ -7,7 +7,7 @@ Below you will find a short introduction to the master thesis project that I am 
 
 ## A New Software Tool for the Coloured Petri Nets Modelling Language
 
-Coloured Petri Nets is a modelling and simulation language for distributed systems and has been implemented in CPN Tools. CPN Tools has been widely used and is currently being used in industrial collaboration projects with Schneider Electric and SCA Solutions. CPN Tools is becoming difficult to maintain and the aim of this project is to developed the next generation of tool support for CPNs. 
+Coloured Petri Nets is a modelling and simulation language for distributed systems and has been implemented in CPN Tools. CPN Tools has been widely used but is also becoming increasingly difficult to maintain. The aim of this project is to developed the next generation of tool support for CPNs. 
 
 A demonstration of the existing CPN Tools: 
 
@@ -21,6 +21,9 @@ There are several possibilties for practically oriented implementation projects 
 - frameworks for implementation of graphical editors
 - simulation tools based on Java, Scala, and C++
 - data-structures and algorithms for verification
+- automatic code generation from executable models
+
+The projects may also involve industrial collaboration with Schneider Electric and SCA Solutions.
 
 ## Model-based Testing of Distributed Systems Protocols
 
