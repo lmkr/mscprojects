@@ -3,7 +3,7 @@
 Below you will find a short introduction to the master thesis project that I am currently offering. If you are interested in one or more of the projects, then do not hesitate to contact me at:
 
 - Office: E503
-- Email:  lmkr replace-with-an-at-sign hvl.no
+- Email:  lmkr replace-me-with-an-at-sign hvl.no
 
 ## A New Software Tool for the Coloured Petri Nets Modelling Language
 
@@ -19,7 +19,7 @@ A short introduction to Coloured Petri Nets can be found in the paper: https://c
 There are several possibilties for practically oriented implementation projects linked to the tool development:
 
 - frameworks for implementation of graphical editors
-- simulation tools based on C++, Java, and Scala
+- simulation tools based on Java, Scala, and C++
 - data-structures and algorithms for verification
 
 ## Model-based Testing of Distributed Systems Protocols
@@ -45,9 +45,9 @@ http://www.simsubsea.no
 The aim of this project is to further development the game in areas such as:
 
 - support for use in engineering education
-- web front-end for adding mathematical problems to the game 
-- web front-end for competition among multiple players
+- teacher web front-end for adding mathematical problems to the game 
+- player web front-end for competition and ranking among multiple players
 
-Knowledge and solid skills in the use of Unity is required to undertake this project.
+Development of web front-end may involve frameworks such as Java-Scala/Play. Knowledge and solid skills in the use of Unity is required to undertake this project.
 
 
