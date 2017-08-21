@@ -13,12 +13,13 @@ A demonstration of the existing CPN Tools:
 
 - simulation: https://www.youtube.com/watch?v=ZRzHi1eW1QE
 - editing: https://www.youtube.com/watch?v=Vd_3o2KF2Oo
+- webpage of CPN Tools: http://cpntools.org
 
 A short introduction to Coloured Petri Nets can be found in the paper: https://cacm.acm.org/magazines/2015/6/187324-colored-petri-nets/abstract
 
 There are several possibilties for practically oriented implementation projects linked to the tool development:
 
-- frameworks for implementation of graphical editors
+- software frameworks for implementation of graphical editors
 - simulation tools based on Java, Scala, and C++
 - data-structures and algorithms for verification
 - automatic code generation from executable models
@@ -51,6 +52,6 @@ The aim of this project is to further development the game in areas such as:
 - teacher web front-end for adding mathematical problems to the game 
 - player web front-end for competition and ranking among multiple players
 
-Development of web front-end may involve frameworks such as Java-Scala/Play. Knowledge and solid skills in the use of Unity is required to undertake this project.
+Development of web front-end may involve frameworks such as Java-Scala/Play: https://www.playframework.com 
 
-
+Knowledge and solid skills in the use of Unity is required to undertake this project.
