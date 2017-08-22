@@ -15,7 +15,7 @@ A demonstration of the existing CPN Tools:
 - editing: https://www.youtube.com/watch?v=Vd_3o2KF2Oo
 - webpage for the existing CPN Tools: http://cpntools.org
 
-A short introduction to Coloured Petri Nets can be found in the paper: https://cacm.acm.org/magazines/2015/6/187324-colored-petri-nets/abstract
+A short introduction to Coloured Petri Nets can be found in the paper: https://cacm.acm.org/magazines/2015/6/187324-colored-petri-nets/abstract 
 
 There are several possibilties for practically oriented implementation projects linked to the tool development:
 
@@ -28,7 +28,7 @@ The projects may also involve industrial collaboration with Schneider Electric a
 
 ## Model-based Testing of Distributed Systems Protocols
 
-Testing of distributed system can be challenging and the purpose of this project is to investigate the use of model-based testing as an approach to verify distributed systems protocols. The aim of the project is to further develop the approach that can be found in the paper: http://ceur-ws.org/Vol-1846/paper11.pdf
+Testing of distributed system can be challenging and the purpose of this project is to investigate the use of model-based testing as an approach to verify distributed systems protocols. The aim of the project is to further develop the approach that can be found in the paper http://ceur-ws.org/Vol-1846/paper11.pdf for quorum-based distributed systems and/or consider the protocols for connection-aware mobile applications that were investigated in http://ceur-ws.org/Vol-1846/paper15.pdf
 
 ## Platforms, Frameworks, and Tecnologies for Internet-of-things
 
