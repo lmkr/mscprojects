@@ -32,7 +32,7 @@ Testing of distributed system can be challenging and the purpose of this project
 
 ## Platforms, Frameworks, and Tecnologies for Internet-of-things
 
-The aim of this project will be to look into protocols and software frameworks for building IoT solutions. This may also include protocols such as CoAP, MQTT and WebSockets. The project will evaluate technolgies for IoT by building software prototypes possible combined with evaluation with industry partner. Geomonitor is one potential partner in the project: https://www.geomonitor.no
+The aim of this project will be to look into protocols and software frameworks for building IoT solutions. This may also include protocols such as CoAP and MQTT. The project will evaluate technolgies for IoT by building software prototypes possible combined with evaluation with industry partner. Geomonitor is one potential partner in the project: https://www.geomonitor.no
 
 ## Process Mining in Healthcare systems
 
