@@ -1,4 +1,4 @@
-# Master's thesis projects
+# Master's thesis projects - Concurrent Software Systems
 
 Below you will find a short introduction to the master thesis project that I am currently offering. If you are interested in one or more of the projects, then do not hesitate to contact me at:
 
