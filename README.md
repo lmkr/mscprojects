@@ -5,6 +5,8 @@ Below you will find a short introduction to the master thesis project that I am 
 - Office: E503
 - Email:  lmkr replace-me-with-an-at-sign hvl.no
 
+An overall description of the research area is also available: https://github.com/lmkr/mscprojects/blob/master/LMK_DescriptionResearchArea.pdf
+
 ## A New Software Tool for the Coloured Petri Nets Modelling Language
 
 Coloured Petri Nets is a modelling and simulation language for distributed systems and has been implemented in CPN Tools. CPN Tools has been widely used but is also becoming increasingly difficult to maintain. The aim of this project is to developed the next generation of tool support for CPNs. 
